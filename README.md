@@ -23,14 +23,14 @@ Responsabilidades:
   Unión de componentes y liderazgo del equipo.
   Coordinación de tareas y toma de decisiones clave.
 
-4. Eduardo Carrizo -
+3. Eduardo Carrizo -
   Rol: Tester (QA)
 Responsabilidades:
   Creación y ejecución de pruebas unitarias y de integración.
   Identificación y documentación de problemas y errores.
   Colaboración con el equipo para garantizar la calidad del código.
 
-5. Jennifer Crespo -
+4. Jennifer Crespo -
   Rol: Desarrollador Full Stack y comunicadora del Equipo.
 Responsabilidades:
   Colaboración en la integración de los componentes desarrollados por los equipos de frontend y backend.
@@ -38,4 +38,4 @@ Responsabilidades:
   Asegurar la coherencia y el correcto funcionamiento de la aplicación en conjunto.
   Comunicación efectiva con los miembros del equipo y partes interesadas.
 
-Mail de contacto de grupo:  JenniferCrespo_85@hotmail.com
+Mail de contacto de grupo: JenniferCrespo_85@hotmail.com
